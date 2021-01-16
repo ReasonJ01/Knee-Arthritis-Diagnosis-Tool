@@ -1,5 +1,5 @@
 # Knee-Arthritis-Diagnosis-Tool
-#### Video Demo: <url>
+#### Video Demo: https://www.youtube.com/watch?v=YJBiZYCmvL0
 #### Description:
 A convolution neural network to diagnose the severity of Osteoarthritis using an X-ray. Provides a confidence for a given knee being in each of the 5 Kellgren-Lawrence(KL) classification tiers.
   
