@@ -12,3 +12,5 @@ The small quantity of data available meant that applying random transformations 
 The knees in the dataset were graded in with the KL system so that is what the networks use. This systems has 5 tiers labelled 0 to 4. 0 =  No osteoarthritis, 1 = Doubtful narrowing of joint space and/or possible osteophytes, 2 = Definite osteophytes and possible narrowing of joint space, 3 = Multiple osteophytes, definite narrowing of joint space and some sclerosis and deformity of bone ends, 4 = Large osteophytes, marked narrowing of joint space, severe sclerosis, and definite deformity of bone ends.
 
 Originally the models output a single number 0-4 of what class it is most confident is correct, however to make the network feel less like a "black box" i changed this to be a bar graph of all confidences.
+
+The data is available here: https://data.mendeley.com/datasets/56rmx5bjcr/1
